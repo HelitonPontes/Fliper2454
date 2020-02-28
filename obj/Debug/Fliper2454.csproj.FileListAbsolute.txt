@@ -1,0 +1,6 @@
+C:\Users\Heliton\Source\Repos\Fliper2454\bin\Debug\Fliper2454.exe.config
+C:\Users\Heliton\Source\Repos\Fliper2454\bin\Debug\Fliper2454.exe
+C:\Users\Heliton\Source\Repos\Fliper2454\bin\Debug\Fliper2454.pdb
+C:\Users\Heliton\Source\Repos\Fliper2454\obj\Debug\Fliper2454.csprojAssemblyReference.cache
+C:\Users\Heliton\Source\Repos\Fliper2454\obj\Debug\Fliper2454.exe
+C:\Users\Heliton\Source\Repos\Fliper2454\obj\Debug\Fliper2454.pdb
